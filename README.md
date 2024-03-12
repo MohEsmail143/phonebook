@@ -1,21 +1,25 @@
-# phonebook
+# Phonebook
 
-A simple command-line interface (CLI) program written in C that allows you to manage a phonebook directory. Each entry in the directory includes the person's name (last and first), birth date, address, email, and phone number. The program was developed using the Code::Blocks IDE.
+A simple C-based command-line interface (CLI) program written in C that allows you to manage a phonebook directory. Each entry in the directory includes the person's name (last and first), birth date, address, email, and phone number. The program was developed using the Code::Blocks IDE.
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Phonebook](#phonebook)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Features](#features)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Contributing](#contributing)
+  - [License](#license)
+  - [Acknowledgements](#acknowledgements)
+  - [Support](#support)
 
 ## Introduction
 
-This was the final project for the university course - CC271 Programming I - at the Computer and Communications Engineering department, Faculty of Engineering, Alexandria University. 
-
 The Phonebook CLI Program is designed to help you organize and manage a directory of contacts. You can add new contacts, view existing contacts, search for specific contacts, update contact information, and delete contacts from the phonebook.
+
+This project was developed as part of the course Programming I in the Fall 2019 semester at the Faculty of Engineering, Alexandria University, under the Computer and Communications Engineering department, supervised by Dr. Saleh El-Shehaby.
 
 ## Features
 
@@ -30,11 +34,11 @@ The Phonebook CLI Program is designed to help you organize and manage a director
 To run the Phonebook CLI Program, follow these steps:
 
 1. Ensure you have a C compiler installed on your system (e.g., GCC).
-1. Clone the repository or download the source code files to your local machine.
-1. Open the Code::Blocks IDE.
-1. Open the project file (`Phonebook.cbp`) in Code::Blocks.
-1. Build and compile the project using the IDE.
-1. Once compiled successfully, you can run the program from within Code::Blocks or via the command line.
+2. Clone the repository or download the source code files to your local machine.
+3. Open the Code::Blocks IDE.
+4. Open the project file (`Phonebook.cbp`) in Code::Blocks.
+5. Build and compile the project using the IDE.
+6. Once compiled successfully, you can run the program from within Code::Blocks or via the command line.
 
 ## Usage
 
